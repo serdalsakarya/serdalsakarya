@@ -2,7 +2,7 @@
 
 ## SAP ABAP Developer
 
-Experienced software developer focused on SAP ABAP and ABAP Cloud development.
+Software developer currently focused on SAP ABAP and ABAP Cloud development with experience in C#/.NET and object-oriented programming.
 
 ### SAP Technologies
 
@@ -26,17 +26,11 @@ Experienced software developer focused on SAP ABAP and ABAP Cloud development.
 - Smart Forms
 - Adobe Forms
 
-### Background
+### SAP ABAP Practice
 
-Software development experience with C#/.NET and object-oriented programming.
+#### SAP ABAP Cloud Learning
 
-Currently focused on SAP ABAP and ABAP Cloud development.
-
-## SAP ABAP Practice
-
-### SAP ABAP Cloud Learning
-
-Private repository containing practical exercises and projects covering:
+Private repository with practical exercises and projects covering:
 
 - ABAP Cloud
 - SAP S/4HANA
@@ -46,9 +40,9 @@ Private repository containing practical exercises and projects covering:
 - EML
 - ABAP Unit Testing
 
-### SAP ABAP / SAP GUI Practice
+#### SAP ABAP / SAP GUI Practice
 
-Private repository containing practical ABAP development exercises covering:
+Private repository with practical ABAP development exercises covering:
 
 - Object-Oriented ABAP
 - Reports and ALV
@@ -64,6 +58,12 @@ Private repository containing practical ABAP development exercises covering:
 - Search Helps and Message Handling
 - Practical exercises based on SAP BC400 and BC430 learning materials
 
-### ABAP Exam Preparation
+#### ABAP Exam Preparation
 
-Private repository containing personal coding exercises completed during SAP ABAP Cloud certification preparation.
+Private repository with personal coding exercises completed during SAP ABAP Cloud certification preparation.
+
+### Background
+
+Software development experience with C#/.NET and object-oriented programming.
+
+Current focus: SAP ABAP and ABAP Cloud.

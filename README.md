@@ -2,11 +2,11 @@
 
 ## Software Developer | C#/.NET | SAP ABAP | ABAP Cloud
 
-Software developer with many years of professional experience in C#/.NET backend development, object-oriented programming and database-driven applications.
+Software developer with many years of professional experience in software development, particularly in C#/.NET, desktop and web application development, object-oriented programming and database-driven applications.
 
-Background in developing and maintaining software applications, working with relational databases and supporting software deployment and technical operations.
+Experienced in developing and maintaining business applications, including Windows Forms desktop applications and ASP.NET-based web solutions. Skilled in working with relational databases, designing application interfaces and supporting software deployment and technical operations.
 
-Currently expanding my practical development experience across C#/.NET and SAP ABAP, combining previous software engineering experience with modern application development technologies.
+Currently expanding my development experience in both C#/.NET and SAP ABAP, combining previous professional software development experience with modern application development technologies.
 
 **SAP Certified Associate – Back-End Developer – ABAP Cloud**
 
@@ -18,11 +18,13 @@ Currently expanding my practical development experience across C#/.NET and SAP A
 
 - C#
 - .NET Framework
+- Windows Forms (WinForms)
+- Desktop Application Development
 - ASP.NET
 - ASP.NET MVC
 - Object-Oriented Programming
 - Entity Framework
-- SQL Server
+- Microsoft SQL Server
 - Oracle Database
 - HTML5 and CSS3
 - JavaScript and jQuery
@@ -68,7 +70,8 @@ An inventory management web application developed with C# and ASP.NET MVC 5.
 - Entity Framework (Database First)
 - Microsoft SQL Server
 - Bootstrap 3
-- jQuery
+- HTML5 and CSS3
+- JavaScript and jQuery
 
 **Features:**
 - Product management
@@ -78,15 +81,13 @@ An inventory management web application developed with C# and ASP.NET MVC 5.
 - Database integration using Entity Framework
 - CRUD operations
 
-
 ### SAP ABAP Practice
 
-### Note on Private Repositories
+**Note on Private Repositories:**
 
 My SAP ABAP repositories are kept private out of respect for SAP training materials and their applicable usage and redistribution restrictions.
 
 I would be happy to discuss my implementations, explain my code and walk through selected practical examples during a technical interview, subject to applicable licensing restrictions.
-
 
 #### SAP ABAP Cloud Learning
 
@@ -127,10 +128,12 @@ Private repository containing personal coding exercises completed during prepara
 
 ## Professional Background
 
-- Over 5 years of professional C#/.NET development experience
-- Backend and web application development
+- Many years of professional software development experience
+- C#/.NET desktop application development using Windows Forms
+- Web application development with ASP.NET and related technologies
+- Development and maintenance of database-driven business applications
 - Object-oriented software development
-- Relational database development with SQL Server and Oracle
+- Relational database experience with Microsoft SQL Server and Oracle
 - Software deployment, maintenance and technical support
 - IT team coordination and application support
 
@@ -139,7 +142,11 @@ Private repository containing personal coding exercises completed during prepara
 ## Areas of Development
 
 ### C# / .NET
-Backend Development | ASP.NET MVC | Entity Framework | SQL Server
+
+Desktop Application Development | Web Development | ASP.NET MVC | Entity Framework | SQL Server
 
 ### SAP ABAP
-ABAP Cloud | SAP S/4HANA | RAP | CDS | OData V4
+
+### SAP ABAP
+
+ABAP Cloud | Classical ABAP | SAP S/4HANA | RAP | CDS | OData V4 | ALV | Open SQL | BAdIs | User Exits | Smart Forms

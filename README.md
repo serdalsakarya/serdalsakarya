@@ -78,7 +78,15 @@ An inventory management web application developed with C# and ASP.NET MVC 5.
 - Database integration using Entity Framework
 - CRUD operations
 
+
 ### SAP ABAP Practice
+
+### Note on Private Repositories
+
+My SAP ABAP repositories are kept private out of respect for SAP training materials and their applicable usage and redistribution restrictions.
+
+I would be happy to discuss my implementations, explain my code and walk through selected practical examples during a technical interview, subject to applicable licensing restrictions.
+
 
 #### SAP ABAP Cloud Learning
 
